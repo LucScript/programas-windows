@@ -26,7 +26,7 @@ Colección oficial de mis scripts en Python para la optimización avanzada, limp
 ### 🚀 Ejecución
 Abre la terminal como **Administrador** en la carpeta del script y ejecuta:
 ```cmd
-python mantenimiento_windows.py
+python .\mantenimiento_windows.py
 ```
 
 ---
